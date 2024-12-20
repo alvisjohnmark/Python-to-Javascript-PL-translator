@@ -1,0 +1,5 @@
+NOTE: files must be in the same folder
+
+run in terminal
+python .\translator.py .\example.py translated.js 
+
